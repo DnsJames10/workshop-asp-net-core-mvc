@@ -39,3 +39,4 @@ C:\Users\denis\source\repos\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razo
 C:\Users\denis\source\repos\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Departaments\Details.cshtml.g.cs
 C:\Users\denis\source\repos\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Departaments\Edit.cshtml.g.cs
 C:\Users\denis\source\repos\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Departaments\Index.cshtml.g.cs
+C:\Users\denis\source\repos\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Sallers\Index.cshtml.g.cs
